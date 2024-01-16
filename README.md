@@ -1,3 +1,8 @@
+### 安装环境
+Intel Core i7
+macOS Version 14.0 (Build 23A344)
+Xcode 15.0.1 (22266) (Build 15A507)
+
 # MonKeyDev Patch
 
 先安装官方MonkeyDev，然后替换仓库模版到/opt/MonkeyDev/templates
